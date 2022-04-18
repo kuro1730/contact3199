@@ -1,0 +1,14 @@
+#app {
+	width: 98%;
+	margin: auto;
+	margin-top: 3.75rem;
+	text-align: center;
+}
+form,
+header {
+	width: 50%;
+	margin: auto;
+}
+label {
+	text-align: left;
+}

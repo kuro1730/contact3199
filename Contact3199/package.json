@@ -1,0 +1,21 @@
+{
+  "name": "vite_crud",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "vite start",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "firebase": "^9.6.11",
+    "fomantic-ui-css": "^2.8.8",
+    "vue": "^3.0.4",
+    "vue-fomantic-ui": "^0.12.0",
+    "vue-router": "^4.0.14"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.4",
+    "vite": "^1.0.0-rc.13"
+  }
+}
